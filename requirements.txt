@@ -59,7 +59,7 @@ PassportEye==2.2.0
 pdf2image==1.16.0
 pdfminer==20191125
 pickleshare==0.7.5
-Pillow==8.2.0
+Pillow==9.3.0
 prompt-toolkit==3.0.28
 pure-eval==0.2.2
 pycoingecko==2.2.0
